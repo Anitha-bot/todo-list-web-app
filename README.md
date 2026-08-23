@@ -1,5 +1,3 @@
-# todo-list-web-app
-A simple To-Do List web application using HTML, CSS and JavaScript.
 # Interactive To-Do List Web Application
 
 A responsive and dynamic To-Do List web application built using HTML5, CSS3, and JavaScript. This app allows users to manage their daily tasks efficiently with real-time DOM manipulation.
